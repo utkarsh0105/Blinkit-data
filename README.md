@@ -10,13 +10,13 @@ The goal is to extract **business insights** that help improve **inventory plann
 * **Total Records:** 8,523
 * **Total Features:** 12
 ## Business Problems – Blinkit Sales (Short)
-# Identify top-selling product categories
-# Analyze sales impact across outlet tiers (Tier 1, Tier 2, Tier 3)
-# Evaluate performance of outlet sizes (Small, Medium, High)
-# Analyze sales trends of old vs new outlets
-# Identify best-performing outlet locations
-# Improve inventory planning using sales insights
-# Optimize marketing focus on high-performing products and outlets
+* ** Identify top-selling product categories **
+* **Analyze sales impact across outlet tiers (Tier 1, Tier 2, Tier 3) **
+* **Evaluate performance of outlet sizes (Small, Medium, High) **
+* **Analyze sales trends of old vs new outlets **
+*  **Identify best-performing outlet locations **
+*  **Improve inventory planning using sales insights **
+*  **Optimize marketing focus on high-performing products and outlets **
 
 ### Key Columns
 
