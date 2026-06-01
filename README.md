@@ -61,7 +61,7 @@ Visualizations used:
 * Line Plots
 
 
-## 💡 Key Business Insights
+## Key Business Insights
 
 * **Low Fat items generate higher total sales** than Regular items
 * **Tier 3 outlets** contribute significantly to overall revenue
@@ -78,7 +78,7 @@ This EDA helps Blinkit make **data-driven decisions** by identifying:
 * Profitable outlet types and locations
 * Opportunities for better inventory and marketing strategies
 
-## 👤 Author
+## Author
 
 **Utkarsh Singh**
 Data Analyst 
